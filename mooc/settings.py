@@ -93,7 +93,7 @@ DATABASES = {
         'NAME':'mxoline',
         'USER':'root',
         'PASSWORD':'rootroot',
-        'HOST':'10.0.0.2',
+        'HOST':'10.0.0.12',
 
     }
 }
